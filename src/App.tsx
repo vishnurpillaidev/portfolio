@@ -509,7 +509,7 @@ const App: React.FC = () => {
                   <div className="contact-icon">📍</div>
                   <div className="contact-text">
                     <span className="contact-label">Location</span>
-                    <span className="contact-value">Kerala, India</span>
+                    <span className="contact-value">Kollam, India</span>
                   </div>
                 </div>
                 <div className="contact-item">
