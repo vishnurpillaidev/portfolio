@@ -94,10 +94,10 @@ const App: React.FC = () => {
 
   const education: Education[] = [
     {
-      institution: 'University of Kerala',
-      degree: 'Bachelor of Computer Applications',
-      period: '2021 - 2024',
-      description: 'Graduated with honors, focusing on software engineering, database management, and web technologies. Completed advanced courses in data structures, algorithms, and system design.'
+      institution: 'Kerala Technical University',
+      degree: 'Bachelor of Technology',
+      period: '2021 - 2025',
+      description: 'Graduated with GPA of 8.08, focusing on software engineering, database management, and web technologies. Completed advanced courses in data structures, algorithms, and system design.'
     },
   ];
 
@@ -278,7 +278,7 @@ const App: React.FC = () => {
                 <div className="stat-label">Projects</div>
               </div>
               <div className="stat">
-                <div className="stat-number">2+</div>
+                <div className="stat-number">.5+</div>
                 <div className="stat-label">Years Experience</div>
               </div>
               <div className="stat">
@@ -502,14 +502,14 @@ const App: React.FC = () => {
                   <div className="contact-icon">📧</div>
                   <div className="contact-text">
                     <span className="contact-label">Email</span>
-                    <span className="contact-value">vishnu.r.pillai@example.com</span>
+                    <span className="contact-value">vishnurpillai2003@gmail.com</span>
                   </div>
                 </div>
                 <div className="contact-item">
                   <div className="contact-icon">📍</div>
                   <div className="contact-text">
                     <span className="contact-label">Location</span>
-                    <span className="contact-value">Kollam, India</span>
+                    <span className="contact-value">Kerala, India</span>
                   </div>
                 </div>
                 <div className="contact-item">
